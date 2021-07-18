@@ -14,7 +14,7 @@
     ],
     "properties": {
       "id": {
-        "type": "String"
+        "type": "boolean"
       },
       "name": {
         "type": "string",
