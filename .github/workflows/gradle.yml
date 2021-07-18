@@ -25,5 +25,5 @@ jobs:
       run: chmod +x gradlew
     - name: Build with Gradle
       run: ./gradlew build
-#    - name: build project
-#      run: java -jar artifacts/app-mbank.jar
+    - name: build project
+      run: java -jar artifacts/app-mbank.jar
